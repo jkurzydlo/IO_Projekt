@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center" style="background-image: url(https://blogger.googleUsercontent.com/img/b/R29vZ2xl/AVvXsEhFSNMSbVTsWgUnULVXxhm1oEvdbVUyEJ7qs3OzFs_HBqcnwoGM_2kQDjmIAhkBbzvaicVkqulOR3jph00Ee7fQHu93iyIp5aP0teEhiqFxVqDoC-VjPAG7cPDfhMMcX44x7cstpJvzTzVI/s2048/jessica-ruscello-OQSCtabGkSY-unsplash.jpg)">
+	<h1 class="display-4">Witaj w naszej księgarni internetowej!</h1>
+	<p>Znajdziesz tutaj liczne pozycje, które pomogą Ci w pracy czy rozrywce</p>
+	<!-- Lista kilkunastu najbardziej znanych książek z bazy danych-->
+	<div class="container">
+		<div class="row">
+			@{
+				for (int i = 0; i < 10; i++)
+				{
+					<div class="col">
+						<div class="card" style="width: 18rem; margin:10px">
+							<img src="..." class="card-img-top" alt="...">
+							<div class="card-body">
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							</div>
+						</div>
+					</div>
+				}
+			}
+		</div>
+	</div>
+</div>
