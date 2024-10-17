@@ -1,78 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\",
+  "WorkspaceRootPath": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\localizedentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:localizedentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\ksiegarniaap.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:ksiegarniaap.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\ksiegarniaap\\migrations\\20241010120552_dodanotabele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:migrations\\20241010120552_dodanotabele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\localizedentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:localizedentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|c:\\users\\jacek\\source\\repos\\io_projekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BCCFCFCF-9726-42B1-BDB3-9C4CFFC4A4D4}|ksiegarniaAp.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,219 +86,185 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T13:15:30.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LocalizedEntityErrorDescriber.cs",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\LocalizedEntityErrorDescriber.cs",
-              "RelativeDocumentMoniker": "LocalizedEntityErrorDescriber.cs",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\LocalizedEntityErrorDescriber.cs",
-              "RelativeToolTip": "LocalizedEntityErrorDescriber.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAEwFkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T13:03:42.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHsAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T12:45:08.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T12:42:47.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:38:06.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:17:31.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:15:14.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:15:12.487Z",
+              "WhenOpened": "2024-10-17T17:52:25.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABiAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:09:23.129Z"
+              "WhenOpened": "2024-10-17T17:52:23.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:09:20.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:09:19.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:09:14.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-10T12:07:56.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20241010120552_DodanoTabele.cs",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Migrations\\20241010120552_DodanoTabele.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241010120552_DodanoTabele.cs",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Migrations\\20241010120552_DodanoTabele.cs",
-              "RelativeToolTip": "Migrations\\20241010120552_DodanoTabele.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T12:05:52.617Z"
+              "WhenOpened": "2024-10-17T17:51:10.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Models\\AppUser.cs",
-              "RelativeToolTip": "Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T12:05:11.4Z"
+              "WhenOpened": "2024-10-17T17:43:22.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:09:41.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T18:17:01.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:55:11.137Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAArwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:22:23.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ksiegarniaAp",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\ksiegarniaAp.csproj",
-              "RelativeDocumentMoniker": "ksiegarniaAp.csproj",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\ksiegarniaAp.csproj",
-              "RelativeToolTip": "ksiegarniaAp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T11:52:12.666Z"
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:55:39.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\AppDbContext.cs",
-              "RelativeToolTip": "AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T18:09:00.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwCwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T18:08:42.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:48:01.228Z"
+              "WhenOpened": "2024-10-17T18:52:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocalizedEntityErrorDescriber.cs",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\LocalizedEntityErrorDescriber.cs",
+              "RelativeDocumentMoniker": "LocalizedEntityErrorDescriber.cs",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\LocalizedEntityErrorDescriber.cs",
+              "RelativeToolTip": "LocalizedEntityErrorDescriber.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:09:26.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T17:38:22.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:22:42.586Z",
+              "EditorCaption": ""
             }
           ]
         }

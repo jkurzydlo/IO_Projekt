@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\ksiegarniaAp.csproj": {}
+    "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\ksiegarniaAp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\ksiegarniaAp.csproj": {
+    "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\ksiegarniaAp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\ksiegarniaAp.csproj",
+        "projectUniqueName": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\ksiegarniaAp.csproj",
         "projectName": "ksiegarniaAp",
-        "projectPath": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\ksiegarniaAp.csproj",
+        "projectPath": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\ksiegarniaAp.csproj",
         "packagesPath": "C:\\Users\\Jacek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacek\\source\\repos\\ksiegarniaAp\\obj\\",
+        "outputPath": "C:\\Users\\Jacek\\source\\repos\\IO_Projekt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VisualStudioShared\\NuGetPackages"

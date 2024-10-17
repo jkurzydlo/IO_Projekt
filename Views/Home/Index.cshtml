@@ -1,4 +1,5 @@
-﻿@{
+﻿@model IEnumerable<ksiegarniaAplikacja.Models.Book>
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -7,15 +8,16 @@
 	<p>Znajdziesz tutaj liczne pozycje, które pomogą Ci w pracy czy rozrywce</p>
 	<!-- Lista kilkunastu najbardziej znanych książek z bazy danych-->
 	<div class="container">
-		<div class="row">
+		<div class="row justify-content-evenly ">
 			@{
-				for (int i = 0; i < 10; i++)
+				foreach(var book in Model)
 				{
 					<div class="col">
-						<div class="card" style="width: 18rem; margin:10px">
-							<img src="..." class="card-img-top" alt="...">
-							<div class="card-body">
-								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+						<div class="card" style="width: 12rem; margin:10px">
+							<div class="card-body bg-info bg-gradient">
+								<h2 class="card-title">@book.Title</h2>
+								<h4 class="card-subtitle">@book.Author</h4>
+								<p class="card-text">@book.Price zł.</p>
 							</div>
 						</div>
 					</div>

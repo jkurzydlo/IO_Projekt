@@ -8,6 +8,9 @@ var connectionString = "Server=localhost;Database=DBKsiegarnia;Trusted_Connectio
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(op => op.UseSqlServer("Server=localhost;Database=DBKsiegarnia;Trusted_Connection=True;TrustServerCertificate=True"));
+builder.Services.AddAuthorizationBuilder()
+    .AddPolicy("admin", policy => policy.RequireRole("admin"))
+    .AddPolicy("user", policy => policy.RequireRole("user"));
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false).
 	AddRoles<IdentityRole>().

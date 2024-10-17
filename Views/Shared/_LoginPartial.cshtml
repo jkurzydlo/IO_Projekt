@@ -7,19 +7,18 @@
 @if (SignInManager.IsSignedIn(User))
 {
         <li class="nav-item">
-            <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Witaj, @User.Identity.Name
-
-                      @{  /*
-                    if((await UserManager.GetClaimsAsync( (await UserManager.GetUserAsync(User)))).FirstOrDefault(c => c.Type == ClaimTypes.Role && c.Value == "admin") != null)
-                    {
-                        <h1>Admin</h1>
-                    }else
-                    					{
-						<h1>User</h1>
-					}
-                    */}
-                </a>
+            <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Witaj, @User.Identity.Name</a>
     </li>
+        <li class="dropdown">
+            <button class="btn btn-outline-success me-2 dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                Zarządzaj 
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                <li><a class="dropdown-item" asp-controller="Books" asp-action="Index">Książki</a></li>
+                <li><a class="dropdown-item" href="#">Użytkownicy</a></li>
+                <li><a class="dropdown-item" href="#">Zamówienia</a></li>
+            </ul>
+        </li> 
     <li class="nav-item">
         <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
                 <button id="logout" type="submit" class="btn btn-outline-success me-2">Wyloguj</button>

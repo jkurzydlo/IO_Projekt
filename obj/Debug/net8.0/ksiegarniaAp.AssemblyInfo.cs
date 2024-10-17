@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ksiegarniaAp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61484456cb2afcc39a7b5aadfc2ed40a853a271f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ksiegarniaAp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ksiegarniaAp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

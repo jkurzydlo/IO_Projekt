@@ -32,7 +32,7 @@ namespace ksiegarniaAp {
 			return new IdentityError
 			{
 				Code = nameof(InvalidUserName),
-				Description = string.Format("niepoprawny email", userName)
+				Description = string.Format("Niepoprawny email", userName)
 			};
 		}
 
