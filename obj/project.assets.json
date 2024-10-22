@@ -8444,23 +8444,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jacek\\.nuget\\packages\\": {},
-    "E:\\VisualStudioShared\\NuGetPackages": {}
+    "C:\\Users\\marci\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jacek\\Source\\Repos\\IO_Projekt\\ksiegarniaAp.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\Source\\Repos\\IO_Projekt\\ksiegarniaAp.csproj",
       "projectName": "ksiegarniaAp",
-      "projectPath": "C:\\Users\\Jacek\\Source\\Repos\\IO_Projekt\\ksiegarniaAp.csproj",
-      "packagesPath": "C:\\Users\\Jacek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jacek\\Source\\Repos\\IO_Projekt\\obj\\",
+      "projectPath": "C:\\Users\\marci\\Source\\Repos\\IO_Projekt\\ksiegarniaAp.csproj",
+      "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marci\\Source\\Repos\\IO_Projekt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\VisualStudioShared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jacek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8549,7 +8549,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
